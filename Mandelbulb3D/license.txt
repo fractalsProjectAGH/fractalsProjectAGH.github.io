@@ -1,0 +1,11 @@
+Model Information:
+* title:	MDB3D - Integer Power - fractal photogrammetry
+* source:	https://sketchfab.com/3d-models/mdb3d-integer-power-fractal-photogrammetry-a29001d7c6324c98b4779af57fae7957
+* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MDB3D - Integer Power - fractal photogrammetry" (https://sketchfab.com/3d-models/mdb3d-integer-power-fractal-photogrammetry-a29001d7c6324c98b4779af57fae7957) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
